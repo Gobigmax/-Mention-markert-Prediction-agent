@@ -1,0 +1,28 @@
+import { type Keyword } from './types';
+
+export const INITIAL_KEYWORDS: Keyword[] = [
+  { keyword: 'Numeric Scale', aliases: ['Trillion', 'Million', 'Billion'], count: 0, target: 10 },
+  { keyword: 'Australia', count: 0, target: 8 },
+  { keyword: 'Tariff', count: 0, target: 7 },
+  { keyword: 'Thank you', count: 0, target: 8 },
+  { keyword: 'Joe', count: 0, target: 4 },
+  { keyword: 'Biden', count: 0, target: 4 },
+  { keyword: 'China', count: 0, target: 3 },
+  { keyword: 'Mineral', count: 0, target: 2 },
+  { keyword: 'Earth', count: 0, target: 2 },
+  { keyword: 'Gaza', count: 0, target: 1 },
+  { keyword: 'Israel', count: 0, target: 1 },
+  { keyword: 'Aluminum', count: 0, target: 1 },
+  { keyword: '8 Wars', count: 0, target: 1 },
+  { keyword: 'Taiwan', count: 0, target: 1 },
+  { keyword: 'Pacific', count: 0, target: 1 },
+  { keyword: 'Aussie', count: 0, target: 1 },
+  { keyword: 'Where are you from', count: 0, target: 1 },
+  { keyword: 'Shutdown', count: 0, target: 1 },
+  { keyword: 'Shut Down', count: 0, target: 1 },
+  { keyword: 'AI', count: 0, target: 1 },
+  { keyword: 'Artificial Intelligence', count: 0, target: 1 },
+  { keyword: 'Crypto', count: 0, target: 1 },
+  { keyword: 'Bitcoin', count: 0, target: 1 },
+  { keyword: 'AUKUS', count: 0, target: 1 },
+];

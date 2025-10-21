@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Mention markert Prediction agent",
+  "description": "A real-time monitoring dashboard that displays a live transcript feed and highlights mentions of monitored keywords, presented in a classic terminal UI.",
+  "requestFramePermissions": [
+    "display-capture",
+    "microphone"
+  ]
+}
